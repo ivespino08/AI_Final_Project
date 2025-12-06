@@ -1,0 +1,186 @@
+Values of lab runs
+
+DQN Baseline
+
+use_reward_shaping=False,
+use_priority=False
+
+Episode 10/500, Avg Reward: 21.80, Epsilon: 0.951
+Episode 20/500, Avg Reward: 27.00, Epsilon: 0.905
+Episode 30/500, Avg Reward: 25.00, Epsilon: 0.860
+Episode 40/500, Avg Reward: 30.30, Epsilon: 0.818
+Episode 50/500, Avg Reward: 27.20, Epsilon: 0.778
+Episode 60/500, Avg Reward: 31.00, Epsilon: 0.740
+Episode 70/500, Avg Reward: 28.80, Epsilon: 0.704
+Episode 80/500, Avg Reward: 30.80, Epsilon: 0.670
+Episode 90/500, Avg Reward: 74.40, Epsilon: 0.637
+Episode 100/500, Avg Reward: 51.20, Epsilon: 0.606
+Episode 110/500, Avg Reward: 72.80, Epsilon: 0.576
+Episode 120/500, Avg Reward: 60.20, Epsilon: 0.548
+Episode 130/500, Avg Reward: 52.20, Epsilon: 0.521
+Episode 140/500, Avg Reward: 56.80, Epsilon: 0.496
+Episode 150/500, Avg Reward: 80.60, Epsilon: 0.471
+Episode 160/500, Avg Reward: 36.40, Epsilon: 0.448
+Episode 170/500, Avg Reward: 50.30, Epsilon: 0.427
+Episode 180/500, Avg Reward: 78.70, Epsilon: 0.406
+Episode 190/500, Avg Reward: 40.40, Epsilon: 0.386
+Episode 200/500, Avg Reward: 86.10, Epsilon: 0.367
+Episode 210/500, Avg Reward: 135.60, Epsilon: 0.349
+Episode 220/500, Avg Reward: 65.70, Epsilon: 0.332
+Episode 230/500, Avg Reward: 189.70, Epsilon: 0.316
+Episode 240/500, Avg Reward: 228.90, Epsilon: 0.300
+Episode 250/500, Avg Reward: 234.40, Epsilon: 0.286
+Episode 260/500, Avg Reward: 152.40, Epsilon: 0.272
+Episode 270/500, Avg Reward: 114.40, Epsilon: 0.258
+Episode 280/500, Avg Reward: 150.50, Epsilon: 0.246
+Episode 290/500, Avg Reward: 180.70, Epsilon: 0.234
+Episode 300/500, Avg Reward: 169.60, Epsilon: 0.222
+Episode 310/500, Avg Reward: 361.10, Epsilon: 0.211
+Episode 320/500, Avg Reward: 415.90, Epsilon: 0.201
+Episode 330/500, Avg Reward: 335.50, Epsilon: 0.191
+Episode 340/500, Avg Reward: 198.00, Epsilon: 0.182
+Episode 350/500, Avg Reward: 244.40, Epsilon: 0.173
+Episode 360/500, Avg Reward: 405.30, Epsilon: 0.165
+Episode 370/500, Avg Reward: 253.30, Epsilon: 0.157
+Episode 380/500, Avg Reward: 218.50, Epsilon: 0.149
+Episode 390/500, Avg Reward: 287.70, Epsilon: 0.142
+Episode 400/500, Avg Reward: 171.00, Epsilon: 0.135
+Episode 410/500, Avg Reward: 252.00, Epsilon: 0.128
+Episode 420/500, Avg Reward: 233.50, Epsilon: 0.122
+Episode 430/500, Avg Reward: 304.20, Epsilon: 0.116
+Episode 440/500, Avg Reward: 372.90, Epsilon: 0.110
+Episode 450/500, Avg Reward: 311.50, Epsilon: 0.105
+Episode 460/500, Avg Reward: 151.90, Epsilon: 0.100
+Episode 470/500, Avg Reward: 255.50, Epsilon: 0.095
+Episode 480/500, Avg Reward: 234.30, Epsilon: 0.090
+Episode 490/500, Avg Reward: 335.60, Epsilon: 0.086
+Episode 500/500, Avg Reward: 372.90, Epsilon: 0.082
+
+Best Reward: 500.00
+Average Last 50 Episodes: 270.04
+
+———————————
+ Reward Shaping
+
+use_reward_shaping=True,
+ use_priority=False
+
+Episode 10/500, Avg Reward: 22.80, Epsilon: 0.951
+Episode 20/500, Avg Reward: 22.80, Epsilon: 0.905
+Episode 30/500, Avg Reward: 33.60, Epsilon: 0.860
+Episode 40/500, Avg Reward: 33.00, Epsilon: 0.818
+Episode 50/500, Avg Reward: 26.10, Epsilon: 0.778
+Episode 60/500, Avg Reward: 34.10, Epsilon: 0.740
+Episode 70/500, Avg Reward: 40.80, Epsilon: 0.704
+Episode 80/500, Avg Reward: 57.20, Epsilon: 0.670
+Episode 90/500, Avg Reward: 61.60, Epsilon: 0.637
+Episode 100/500, Avg Reward: 59.90, Epsilon: 0.606
+Episode 110/500, Avg Reward: 63.00, Epsilon: 0.576
+Episode 120/500, Avg Reward: 76.00, Epsilon: 0.548
+Episode 130/500, Avg Reward: 82.00, Epsilon: 0.521
+Episode 140/500, Avg Reward: 90.20, Epsilon: 0.496
+Episode 150/500, Avg Reward: 138.70, Epsilon: 0.471
+Episode 160/500, Avg Reward: 90.60, Epsilon: 0.448
+Episode 170/500, Avg Reward: 83.20, Epsilon: 0.427
+Episode 180/500, Avg Reward: 84.80, Epsilon: 0.406
+Episode 190/500, Avg Reward: 103.00, Epsilon: 0.386
+Episode 200/500, Avg Reward: 61.60, Epsilon: 0.367
+Episode 210/500, Avg Reward: 82.00, Epsilon: 0.349
+Episode 220/500, Avg Reward: 101.80, Epsilon: 0.332
+Episode 230/500, Avg Reward: 82.30, Epsilon: 0.316
+Episode 240/500, Avg Reward: 114.70, Epsilon: 0.300
+Episode 250/500, Avg Reward: 123.30, Epsilon: 0.286
+Episode 260/500, Avg Reward: 126.20, Epsilon: 0.272
+Episode 270/500, Avg Reward: 97.50, Epsilon: 0.258
+Episode 280/500, Avg Reward: 109.60, Epsilon: 0.246
+Episode 290/500, Avg Reward: 140.40, Epsilon: 0.234
+Episode 300/500, Avg Reward: 141.40, Epsilon: 0.222
+Episode 310/500, Avg Reward: 128.80, Epsilon: 0.211
+Episode 320/500, Avg Reward: 127.50, Epsilon: 0.201
+Episode 330/500, Avg Reward: 105.90, Epsilon: 0.191
+Episode 340/500, Avg Reward: 356.50, Epsilon: 0.182
+Episode 350/500, Avg Reward: 305.10, Epsilon: 0.173
+Episode 360/500, Avg Reward: 408.10, Epsilon: 0.165
+Episode 370/500, Avg Reward: 371.10, Epsilon: 0.157
+Episode 380/500, Avg Reward: 234.00, Epsilon: 0.149
+Episode 390/500, Avg Reward: 320.50, Epsilon: 0.142
+Episode 400/500, Avg Reward: 227.10, Epsilon: 0.135
+Episode 410/500, Avg Reward: 231.10, Epsilon: 0.128
+Episode 420/500, Avg Reward: 387.30, Epsilon: 0.122
+Episode 430/500, Avg Reward: 221.60, Epsilon: 0.116
+Episode 440/500, Avg Reward: 221.20, Epsilon: 0.110
+Episode 450/500, Avg Reward: 314.90, Epsilon: 0.105
+Episode 460/500, Avg Reward: 297.50, Epsilon: 0.100
+Episode 470/500, Avg Reward: 355.30, Epsilon: 0.095
+Episode 480/500, Avg Reward: 205.90, Epsilon: 0.090
+Episode 490/500, Avg Reward: 81.70, Epsilon: 0.086
+Episode 500/500, Avg Reward: 97.70, Epsilon: 0.082
+
+Best Reward: 500.00
+Average Last 50 Episodes: 207.62
+
+
+—————————
+
+Priority Replay
+
+use_reward_shaping=False
+use_priority=True
+
+
+Episode 10/500, Avg Reward: 14.10, Epsilon: 0.951
+Episode 20/500, Avg Reward: 22.40, Epsilon: 0.905
+Episode 30/500, Avg Reward: 21.50, Epsilon: 0.860
+Episode 40/500, Avg Reward: 18.60, Epsilon: 0.818
+Episode 50/500, Avg Reward: 36.50, Epsilon: 0.778
+Episode 60/500, Avg Reward: 49.40, Epsilon: 0.740
+Episode 70/500, Avg Reward: 38.10, Epsilon: 0.704
+Episode 80/500, Avg Reward: 46.20, Epsilon: 0.670
+Episode 90/500, Avg Reward: 68.20, Epsilon: 0.637
+Episode 100/500, Avg Reward: 57.00, Epsilon: 0.606
+Episode 110/500, Avg Reward: 42.30, Epsilon: 0.576
+Episode 120/500, Avg Reward: 72.40, Epsilon: 0.548
+Episode 130/500, Avg Reward: 54.80, Epsilon: 0.521
+Episode 140/500, Avg Reward: 66.60, Epsilon: 0.496
+Episode 150/500, Avg Reward: 75.10, Epsilon: 0.471
+Episode 160/500, Avg Reward: 53.60, Epsilon: 0.448
+Episode 170/500, Avg Reward: 100.10, Epsilon: 0.427
+Episode 180/500, Avg Reward: 124.00, Epsilon: 0.406
+Episode 190/500, Avg Reward: 158.80, Epsilon: 0.386
+Episode 200/500, Avg Reward: 98.60, Epsilon: 0.367
+Episode 210/500, Avg Reward: 105.00, Epsilon: 0.349
+Episode 220/500, Avg Reward: 57.00, Epsilon: 0.332
+Episode 230/500, Avg Reward: 74.30, Epsilon: 0.316
+Episode 240/500, Avg Reward: 99.20, Epsilon: 0.300
+Episode 250/500, Avg Reward: 179.70, Epsilon: 0.286
+Episode 260/500, Avg Reward: 110.00, Epsilon: 0.272
+Episode 270/500, Avg Reward: 155.50, Epsilon: 0.258
+Episode 280/500, Avg Reward: 131.60, Epsilon: 0.246
+Episode 290/500, Avg Reward: 132.40, Epsilon: 0.234
+Episode 300/500, Avg Reward: 104.90, Epsilon: 0.222
+Episode 310/500, Avg Reward: 86.80, Epsilon: 0.211
+Episode 320/500, Avg Reward: 166.70, Epsilon: 0.201
+Episode 330/500, Avg Reward: 233.90, Epsilon: 0.191
+Episode 340/500, Avg Reward: 229.70, Epsilon: 0.182
+Episode 350/500, Avg Reward: 306.10, Epsilon: 0.173
+Episode 360/500, Avg Reward: 320.50, Epsilon: 0.165
+Episode 370/500, Avg Reward: 256.40, Epsilon: 0.157
+Episode 380/500, Avg Reward: 265.00, Epsilon: 0.149
+Episode 390/500, Avg Reward: 315.00, Epsilon: 0.142
+Episode 400/500, Avg Reward: 231.60, Epsilon: 0.135
+Episode 410/500, Avg Reward: 260.90, Epsilon: 0.128
+Episode 420/500, Avg Reward: 180.80, Epsilon: 0.122
+Episode 430/500, Avg Reward: 119.70, Epsilon: 0.116
+Episode 440/500, Avg Reward: 217.90, Epsilon: 0.110
+Episode 450/500, Avg Reward: 290.80, Epsilon: 0.105
+Episode 460/500, Avg Reward: 320.60, Epsilon: 0.100
+Episode 470/500, Avg Reward: 345.80, Epsilon: 0.095
+Episode 480/500, Avg Reward: 323.10, Epsilon: 0.090
+Episode 490/500, Avg Reward: 310.90, Epsilon: 0.086
+Episode 500/500, Avg Reward: 380.20, Epsilon: 0.082
+
+Best Reward: 500.00
+Average Last 50 Episodes: 336.12
+
+
+
